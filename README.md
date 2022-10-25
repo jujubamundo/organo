@@ -8,11 +8,11 @@ Utlizamos ferramentas, tecnologias e bons hábitos que são usados no dia a dia 
 🔗[clieque aqui para acessar](https://organo-swart.vercel.app)
 
 ## ☕ Tecnologias
--HTML
--css
--javascript
--React
--git e github
+- HTML
+- css
+- javascript
+- React
+- git e github
 
 ## 💬Contato
 
